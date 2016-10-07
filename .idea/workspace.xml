@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae797103-d34e-4297-a0c8-f2a3b40eb8f8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/generic.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataBase.html" afterPath="$PROJECT_DIR$/DataBase.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dot_Net.html" afterPath="$PROJECT_DIR$/Dot_Net.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.txt" afterPath="$PROJECT_DIR$/README.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/main.js" afterPath="$PROJECT_DIR$/assets/js/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/base/_page.scss" afterPath="$PROJECT_DIR$/assets/sass/base/_page.scss" />
@@ -31,13 +28,9 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/layout/_wrapper.scss" afterPath="$PROJECT_DIR$/assets/sass/layout/_wrapper.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" afterPath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/sass/main.scss" afterPath="$PROJECT_DIR$/assets/sass/main.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/c_programming.html" afterPath="$PROJECT_DIR$/c_programming.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css_html.html" afterPath="$PROJECT_DIR$/css_html.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elements.html" afterPath="$PROJECT_DIR$/elements.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java.html" afterPath="$PROJECT_DIR$/java.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/landing.html" afterPath="$PROJECT_DIR$/landing.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php_jquery.html" afterPath="$PROJECT_DIR$/php_jquery.html" />
     </list>
     <ignored path="html5up-forty.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -126,14 +119,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="java.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="java.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/java.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+            <state relative-caret-position="90">
+              <caret line="222" column="32" selection-start-line="222" selection-start-column="32" selection-end-line="222" selection-end-column="32" />
               <folding>
                 <element signature="n#section#1;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#a#0;n#section#1;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="e#7008#7014#0" expanded="true" />
+                <marker date="1475804116000" expanded="false" signature="3299:3388" ph="..." />
               </folding>
             </state>
           </provider>
@@ -159,7 +153,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
@@ -342,12 +336,12 @@
       <workItem from="1474501060689" duration="263000" />
       <workItem from="1475198904211" duration="1258000" />
       <workItem from="1475797464172" duration="1809000" />
-      <workItem from="1475800402267" duration="1768000" />
+      <workItem from="1475800402267" duration="2124000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8363000" />
+    <option name="totallyTimeSpent" value="8719000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="775" extended-state="6" />
@@ -534,17 +528,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          <folding>
-            <element signature="n#section#1;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#a#0;n#section#1;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/landing.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
@@ -568,6 +551,18 @@
         <state relative-caret-position="300">
           <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="222" column="32" selection-start-line="222" selection-start-column="32" selection-end-line="222" selection-end-column="32" />
+          <folding>
+            <element signature="n#section#1;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#7008#7014#0" expanded="true" />
+            <marker date="1475804116000" expanded="false" signature="3299:3388" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
